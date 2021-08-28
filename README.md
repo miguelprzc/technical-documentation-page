@@ -1,9 +1,9 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Product Landing Page</h1>
+<h1 align="center">Technical Documentation Page</h1>
 
 <div align="center">
-   Solution for the <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page" target="_blank">Product Landing Page</a>.
+   Solution for the <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page" target="_blank">Technical Documentation Page</a>.
 </div>
 
 <div align="center">
