@@ -39,7 +39,10 @@
 
 ![](images/screencapture-desktop.png)
 
-<h2>Mobile View</h2>
+<h3>Mobile View</h3>
+
+![](images/screencapture-mobile-1.png)
+
 
 ![](images/screencapture-mobile-2.png)
 
