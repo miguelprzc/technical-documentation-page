@@ -35,17 +35,19 @@
 
 ## Overview
 
-<h2>Desktop View</h2>
+<h3>Desktop View</h3>
 
 ![](images/screencapture-desktop.png)
 
 <h3>Mobile View</h3>
 
-![](images/screencapture-mobile-1.png)
+<div align="center">
+<img src="images/screencapture-mobile-1.png" width="350" />
+</div>
 
-
-![](images/screencapture-mobile-2.png)
-
+<div align="center">
+<img src="images/screencapture-mobile-2.png" width="350"/>
+</div>
 
 ### Built With
 
